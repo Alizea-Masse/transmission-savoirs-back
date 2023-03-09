@@ -1,0 +1,9 @@
+POST http://localhost:5050/api/login
+Content-Type: application/json
+
+{
+    "email":"titus@mail.com"
+    
+
+
+}

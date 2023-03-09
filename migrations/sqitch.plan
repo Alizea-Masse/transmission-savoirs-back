@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=savoir
+
+1.create_table 2022-10-06T11:49:15Z System Administrator <root@MBP-de-Benoit> # create table
+2.seeding 2022-10-06T12:46:33Z System Administrator <root@MBP-de-Benoit> # write data
